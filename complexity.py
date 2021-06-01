@@ -5,7 +5,7 @@ from keel import parse_keel_dat
 from ecol import complexity
 from sklearn.preprocessing import LabelEncoder
 
-CONFIG_FILE = 'data/config.txt'
+CONFIG_FILE = 'config.txt'
 RESULTS_FILE = 'results.csv'
 
 def find_datasets():
